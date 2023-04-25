@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650978184 source:c:\users\menna\onedrive\desktop\problem.3\main.cpp
+	<iostream>
+	"menu.h"
+
+1650237310 source:c:\users\menna\onedrive\desktop\problem.3\src\matrix.cpp
+
+1650977994 c:\users\menna\onedrive\desktop\problem.3\include\matrix.h
+	<iostream>
+	<bits/stdc++.h>
+	<iomanip>
+
+1650978238 c:\users\menna\onedrive\desktop\problem.3\include\menu.h
+	<bits/stdc++.h>
+	"matrix.h"
+
+1650237322 source:c:\users\menna\onedrive\desktop\problem.3\src\menu.cpp
+

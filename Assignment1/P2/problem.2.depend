@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650145934 source:c:\users\menna\onedrive\desktop\problem.2\main.cpp
+	<iostream>
+	"fraction_calculator.h"
+
+1650153459 source:c:\users\menna\onedrive\desktop\problem.2\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1650153459 c:\users\menna\onedrive\desktop\problem.2\include\fraction.h
+	<iostream>
+
+1650153459 source:c:\users\menna\onedrive\desktop\problem.2\src\fraction_calculator.cpp
+	"fraction_calculator.h"
+	"fraction.h"
+
+1650145856 c:\users\menna\onedrive\desktop\problem.2\include\fraction_calculator.h
+	"fraction.h"
+
